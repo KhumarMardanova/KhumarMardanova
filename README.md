@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Khumar Mardanova
 
-<!--
-**KhumarMardanova/KhumarMardanova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer · Co-Owner at Codeliq
 
-Here are some ideas to get you started:
+I build responsive websites and web interfaces with attention to clear layouts, reusable components, and thoughtful interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As co-owner of [Codeliq](https://codeliq.com), I developed our company website and continue to improve its design and functionality.
+
+## Technologies
+
+React · Next.js · JavaScript · HTML · CSS · Tailwind CSS · Framer Motion
+
+## Featured Work
+
+### [Codeliq Website](https://codeliq.com)
+
+A website showcasing our software, cloud, and AI services, alongside Codeliq Academy courses and events.
+
+My work includes:
+- Responsive layouts for desktop, tablet, and mobile
+- Reusable UI components
+- Course and event detail pages
+- Registration forms
+- Animations and interactive elements
+
+## My Approach
+
+I care about interfaces that are easy to use and maintain. I focus on consistent design, clear navigation, and the small details that improve the user experience.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/khumarmardanova/) · [Codeliq](https://codeliq.com)
