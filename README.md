@@ -30,7 +30,3 @@ I care about interfaces that are easy to use and maintain. I focus on consistent
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/khumarmardanova/) · [Codeliq](https://codeliq.com)
-
-## GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhumarMardanova&theme=github-compact&hide_border=true)
